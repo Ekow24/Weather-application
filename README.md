@@ -1,3 +1,4 @@
+![](rain.png)
 # Weather Application Project 🌦️
 
 ## Overview
